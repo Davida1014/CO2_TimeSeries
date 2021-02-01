@@ -16,10 +16,11 @@ The top 50 CO2-emitting countries, as defined by mean emissions since 1950, are 
 Of countries with a mean emission rate of 150 tonnes or more, the threshold indicated above, below are the countries with the top 10 mean emissions per capita.
 ![top_percapita](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/top_percapita.png?raw=true)
 
-As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically, followed by a United States-only graph. On the first visualization, key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the popularization of the term "Global Warming".
+As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically. Key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the popularization of the term "Global Warming".
 
 ![USA_world](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_world.png?raw=true)
 
+Below is the data upon which our model bases its predictions, CO2 per capita in the United States since 1800.
 ![USA_CO2](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_CO2.png?raw=true)
 
 # Results
