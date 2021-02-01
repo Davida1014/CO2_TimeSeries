@@ -21,6 +21,7 @@ As the United States is the top CO2 emitter by both of these metrics, our model 
 ![USA_world](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_world.png?raw=true)
 
 Below is the data upon which our model bases its predictions, CO2 per capita in the United States since 1800.
+
 ![USA_CO2](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_CO2.png?raw=true)
 
 # Results
