@@ -18,7 +18,7 @@ Of countries with a mean emission rate of 150 tonnes or more, the threshold indi
 
 ![top_percapita](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/top_percapita.png?raw=true)
 
-As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically. Key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the [popularization of the term "Global Warming](https://en.wikipedia.org/wiki/Wallace_Smith_Broecker#:~:text=In%201975%2C%20Broecker%20popularized%20the,about%20Roger%20Revelle's%20research.).
+As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically. Key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the [popularization of the term "Global Warming"](https://en.wikipedia.org/wiki/Wallace_Smith_Broecker#:~:text=In%201975%2C%20Broecker%20popularized%20the,about%20Roger%20Revelle's%20research.).
 
 ![USA_world](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_world.png?raw=true)
 
