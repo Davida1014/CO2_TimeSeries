@@ -1,5 +1,5 @@
 # Predicting US Carbon Dioxide Emissions Using a Time Series Model
-(cover image)
+![Stock%20photo](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/Stock%20photo.jpg?raw=true)
 
 Cierra Andaur, Davida Rosenstrauch
 
