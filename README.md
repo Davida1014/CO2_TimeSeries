@@ -16,7 +16,7 @@ The top 50 CO2-emitting countries, as defined by mean emissions since 1950, are 
 Of countries with a mean emission rate of 150 tonnes or more, the threshold indicated above, below are the countries with the top 10 mean emissions per capita.
 ![top_percapita](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/top_percapita.png?raw=true)
 
-As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically. Key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the popularization of the term "Global Warming".
+As the United States is the top CO2 emitter by both of these metrics, our model focuses on it. The below graph plots total CO2 emissions since 1850 for the entire world as well as United States specfically. Key events are highlighted that may have impacted local increases or decreases in emissions. For example, the end of World War II is preceded by a stark worldwide dip and followed by a steep increase, which is further steepened upon the commonization of commercial air travel. Further, the US curve flattens following the popularization of the term "Global Warming" (https://en.wikipedia.org/wiki/Wallace_Smith_Broecker#:~:text=In%201975%2C%20Broecker%20popularized%20the,about%20Roger%20Revelle's%20research.).
 
 ![USA_world](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_world.png?raw=true)
 
@@ -29,7 +29,11 @@ The most predictive model on this data was an AR model on logged data. Train and
 
 # Recommendations and Next Steps
 It is important to continue to spread awareness of the dangers of climate change and CO2 emissions' impact, as well as to cognizant of financial and sociopolitical events' impacts on CO2 emissions. We would recommend the following steps for further work on this project:
+
 -Apply predictions to the future.
+
 -Analyze and predict CO2 emissions for other high-emitting countries and the world overall.
+
 -Include exogenous variables in a multivariate model, such as population and GDP.
+
 -Utilize neural networks to improve model.
