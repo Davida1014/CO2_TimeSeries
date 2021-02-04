@@ -27,7 +27,7 @@ Below is the data upon which our model bases its predictions, CO2 per capita in 
 ![USA_CO2](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/USA_CO2.png?raw=true)
 
 # Results
-The most predictive model on this data was an AR model on logged data. Train and test sets were purposefully split in 2009 os as to account for the 2008 dip in emissions, which may have been due to the stock market crash in that year, in predictions. Our final model had an RMSE of 0.84 and AIC score of -442.84. Below is a graphic representation of predicted versus actual values for our test set.
+The most predictive model on this data was an AR model on logged data. Train and test sets were purposefully split in 2009 so as to account for the 2008 dip in emissions, which may have been due to the stock market crash in that year, in predictions. Our final model had an RMSE of 0.84 and AIC score of -442.84. Below is a graphic representation of predicted versus actual values for our test set.
 
 ![Predictions_zoomedin](https://github.com/Davida1014/CO2_TimeSeries/blob/main/Images/Predictions_zoomedin.png?raw=true)
 
