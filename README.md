@@ -36,8 +36,10 @@ It is important to continue to spread awareness of the dangers of climate change
 
 * Apply predictions to the future.
 
+* Incorporate seasonality and exogenous variables, such as population and GDP, to test SARIMA, ARIMAX, and SARIMAX models.
+
+* Utilize other model types such as neural networks and Facebook Prophet.
+
 * Analyze and predict CO2 emissions for other high-emitting countries and the world overall.
 
-* Include exogenous variables in a multivariate model, such as population and GDP.
 
-* Utilize neural networks to improve model.
